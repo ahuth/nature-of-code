@@ -18,7 +18,7 @@ export default function RandomWalk() {
       <button onClick={toggleWalking}>{walking ? 'Stop' : 'Walk'}</button>
       <button onClick={reset}>Clear</button>
       <br />
-      <canvas className="border-1 border-white" height={size} ref={canvasRef} />
+      <canvas className="b1 b-white" height={size} ref={canvasRef} />
     </Project>
   );
 }
