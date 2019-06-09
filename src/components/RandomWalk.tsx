@@ -15,12 +15,10 @@ export default function RandomWalk() {
 
   return (
     <Project title="Random Walk">
-      <div>
-        <button onClick={toggleWalking}>{walking ? 'Stop' : 'Walk'}</button>
-        <button onClick={reset}>Clear</button>
-        <br />
-        <canvas className="border-1 border-white" height={size} ref={canvasRef} />
-      </div>
+      <button onClick={toggleWalking}>{walking ? 'Stop' : 'Walk'}</button>
+      <button onClick={reset}>Clear</button>
+      <br />
+      <canvas className="border-1 border-white" height={size} ref={canvasRef} />
     </Project>
   );
 }

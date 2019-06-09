@@ -11,7 +11,9 @@ export default function Project({ children, title }: Props) {
     <div>
       <h1>{title}</h1>
       <Link className="iblock mb2" to="/">Back to project list</Link>
-      {children}
+      <div>
+        {children}
+      </div>
     </div>
   );
 }

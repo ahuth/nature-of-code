@@ -13,12 +13,10 @@ export default function Gaussian() {
 
   return (
     <Project title="Gaussian">
-      <div>
-        <button onClick={toggleRunning}>{running ? 'Stop' : 'Go'}</button>
-        <button onClick={reset}>Clear</button>
-        <br />
-        <canvas className="border-1 border-white" width={640} ref={canvasRef} />
-      </div>
+      <button onClick={toggleRunning}>{running ? 'Stop' : 'Go'}</button>
+      <button onClick={reset}>Clear</button>
+      <br />
+      <canvas className="border-1 border-white" width={640} ref={canvasRef} />
     </Project>
   );
 }
