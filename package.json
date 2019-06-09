@@ -5,9 +5,10 @@
   "license": "MIT",
   "scripts": {
     "build": "react-scripts build",
-    "lint": "eslint --ext .js,.jsx src/",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src/",
     "start": "react-scripts start",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "types": "tsc --noEmit"
   },
   "eslintConfig": {
     "extends": "react-app",
@@ -48,5 +49,10 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.5.1"
   }
 }
