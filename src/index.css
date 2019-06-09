@@ -1,3 +1,6 @@
+@import './styles/border.css';
+@import './styles/flex.css';
+
 * {
   box-sizing: border-box;
 }
@@ -14,20 +17,4 @@ body {
 
 a {
   color: aqua;
-}
-
-.flex {
-  display: flex;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.border-1 {
-  border: 1px solid;
-}
-
-.border-white {
-  border-color: whitesmoke;
 }
