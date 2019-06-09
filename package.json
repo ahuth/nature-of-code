@@ -49,6 +49,7 @@
     ]
   },
   "dependencies": {
+    "gaussian": "^1.1.0",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -56,6 +57,7 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
+    "@types/gaussian": "^1.1.1",
     "@types/lodash": "^4.14.134",
     "@types/react": "^16.8.19",
     "@types/react-dom": "^16.8.4",

@@ -8,6 +8,7 @@ export default function Home() {
       <p>List of projects written as while following along with <a href="https://natureofcode.com/">The Nature of Code</a>.</p>
       <ol>
         <li><Link to="/RandomWalk">Random Walk</Link></li>
+        <li><Link to="/Gaussian">Gaussian</Link></li>
       </ol>
     </div>
   );
