@@ -23,3 +23,11 @@ a {
 .justify-center {
   justify-content: center;
 }
+
+.border-1 {
+  border: 1px solid;
+}
+
+.border-white {
+  border-color: whitesmoke;
+}
