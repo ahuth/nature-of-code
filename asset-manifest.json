@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nature-of-code/static/css/main.ccd70923.chunk.css",
-    "main.js": "/nature-of-code/static/js/main.bc8a9a86.chunk.js",
-    "main.js.map": "/nature-of-code/static/js/main.bc8a9a86.chunk.js.map",
+    "main.css": "/nature-of-code/static/css/main.12b69842.chunk.css",
+    "main.js": "/nature-of-code/static/js/main.3edcdad0.chunk.js",
+    "main.js.map": "/nature-of-code/static/js/main.3edcdad0.chunk.js.map",
     "runtime~main.js": "/nature-of-code/static/js/runtime~main.60a5f275.js",
     "runtime~main.js.map": "/nature-of-code/static/js/runtime~main.60a5f275.js.map",
-    "static/js/2.9431d105.chunk.js": "/nature-of-code/static/js/2.9431d105.chunk.js",
-    "static/js/2.9431d105.chunk.js.map": "/nature-of-code/static/js/2.9431d105.chunk.js.map",
+    "static/js/2.d9603b35.chunk.js": "/nature-of-code/static/js/2.d9603b35.chunk.js",
+    "static/js/2.d9603b35.chunk.js.map": "/nature-of-code/static/js/2.d9603b35.chunk.js.map",
     "index.html": "/nature-of-code/index.html",
-    "precache-manifest.63247488b2856909ae0326495008b720.js": "/nature-of-code/precache-manifest.63247488b2856909ae0326495008b720.js",
+    "precache-manifest.5654818cb1d23ba0a49aa55b3c029818.js": "/nature-of-code/precache-manifest.5654818cb1d23ba0a49aa55b3c029818.js",
     "service-worker.js": "/nature-of-code/service-worker.js",
-    "static/css/main.ccd70923.chunk.css.map": "/nature-of-code/static/css/main.ccd70923.chunk.css.map"
+    "static/css/main.12b69842.chunk.css.map": "/nature-of-code/static/css/main.12b69842.chunk.css.map"
   }
 }
