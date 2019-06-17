@@ -10,7 +10,7 @@ export default function Project({ children, title }: Props) {
   return (
     <div>
       <h1>{title}</h1>
-      <Link className="iblock mb2" to="/">Back to project list</Link>
+      <Link className="inline-block margin-bottom-2" to="/">Back to project list</Link>
       <div>
         {children}
       </div>

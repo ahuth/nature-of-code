@@ -1,16 +1,16 @@
-.b0 { border: 0; }
-.b1 { border: 1px solid; }
+.border-0 { border: 0; }
+.border-1 { border: 1px solid; }
 
-.bt0 { border-top: 0; }
-.bt1 { border-top: 1px solid; }
+.border-top-0 { border-top: 0; }
+.border-top-1 { border-top: 1px solid; }
 
-.bb0 { border-bottom: 0; }
-.bb1 { border-bottom: 1px solid; }
+.border-bottom-0 { border-bottom: 0; }
+.border-bottom-1 { border-bottom: 1px solid; }
 
-.br0 { border-right: 0; }
-.br1 { border-right: 1px solid; }
+.border-right-0 { border-right: 0; }
+.border-right-1 { border-right: 1px solid; }
 
-.bl0 { border-left: 0; }
-.bl1 { border-left: 1px solid; }
+.border-left-0 { border-left: 0; }
+.border-left-1 { border-left: 1px solid; }
 
-.b-white { border-color: whitesmoke; }
+.border-white { border-color: whitesmoke; }

@@ -16,7 +16,7 @@ export default function Gaussian() {
       <button onClick={toggleRunning}>{running ? 'Stop' : 'Go'}</button>
       <button onClick={reset}>Clear</button>
       <br />
-      <canvas className="b1 b-white" width={640} ref={canvasRef} />
+      <canvas className="border-1 border-white" width={640} ref={canvasRef} />
     </Project>
   );
 }
