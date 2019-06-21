@@ -49,6 +49,7 @@
     ]
   },
   "dependencies": {
+    "@ahuth/styles": "^0.1.0",
     "gaussian": "^1.1.0",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
