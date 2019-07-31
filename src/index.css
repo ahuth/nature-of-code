@@ -1,10 +1,15 @@
 @import '~@ahuth/styles';
 
+/* Ensure the focus outlines are visible on the black background. */
+:focus { outline-color: hotpink; }
+
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 1.125rem;
+  line-height: 1.5;
 }
 
 a {
-  color: aqua;
+  color: deepskyblue;
 }
