@@ -51,7 +51,7 @@
   "dependencies": {
     "@ahuth/styles": "^0.1.0",
     "gaussian": "^1.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
